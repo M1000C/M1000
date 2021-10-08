@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kronos6
+- 👋 Hi, I’m @M1000
 - 👀 I’m interested in travel
 - 🌱 I’m currently learning JavaScript, HTML5, CSS, PHP, PHYTON
 - 💞️ I’m looking to collaborate on projets collaborative
